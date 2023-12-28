@@ -1,0 +1,10 @@
+# write your code below this line
+def greeter(name,part_of_the_day):
+    good = "Good "
+    znak = ", "
+    hello = f"{good}{part_of_the_day}{znak}{name}!"
+
+    return hello
+
+greeter("Sash", "night");
+print(greeter) 
