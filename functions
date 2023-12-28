@@ -6,5 +6,5 @@ def greeter(name,part_of_the_day):
 
     return hello
 
-greeter("Sash", "night");
+greeter("Maximus", "night");
 print(greeter) 
